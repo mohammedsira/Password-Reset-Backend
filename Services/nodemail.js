@@ -23,9 +23,9 @@ export const mail = async (userEmail, sub, body) => {
 
             //setting up all details
            let details = {
-                from: `"YourPortfolio" <${process.env.MY_APP_EMAIL}>`,
+                from: `"Vijay" <${process.env.MY_APP_EMAIL}>`,
                 to: userEmail,
-                subject: `YourPortfolio : ${sub}`,
+                subject: `${sub}`,
                 html:
                 `<p>Your account reset password link : <a href='${body}' target="_blank">${body}</a></p>
                 <p>It will expire within 15 minutes</p>
