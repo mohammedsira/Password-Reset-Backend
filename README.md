@@ -61,7 +61,7 @@ This is the Dynamic-Portfolio API, designed and developed as part of the Guvi-Ze
 
 ## API Documentation
 
-[Click here to view API Documentation]()
+[Click here to view API Documentation](https://documenter.getpostman.com/view/24200691/2sA3Qv8B16)
 
 ## Setup
 
