@@ -1,7 +1,7 @@
 
 # Password-Reset-Backend
 
-This is the Dynamic-Portfolio API, designed and developed as part of the Guvi-Zen class Capstone Project. This API handles user authentication and portfolio management, allowing for seamless CRUD operations on portfolio data.
+This is a sample Password-Reset API, designed and developed by me. It's Guvi-Zen class Roadmap session: Day-41 and Nodejs- Day -5: Authentication Task.
 
 ## Tech Stack
 
