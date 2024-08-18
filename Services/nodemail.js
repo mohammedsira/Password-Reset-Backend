@@ -23,7 +23,7 @@ export const mail = async (userEmail, sub, body) => {
 
             //setting up all details
            let details = {
-                from: `"Vijay" <${process.env.MY_APP_EMAIL}>`,
+                from: `"SIRAJ" <${process.env.MY_APP_EMAIL}>`,
                 to: userEmail,
                 subject: `${sub}`,
                 html:
